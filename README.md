@@ -24,6 +24,11 @@ To ease your way into the festival experience, we designed this notebook where y
 
 *AyaFestPe* means "I'm coming to the festival" in Hindi. We chose this name because it rhymes nicely with "aya," creating a catchy and memorable title for our festival initiative.  This notebook showcases extra-ordinary multi-lingual and multi-cultural capabilities of `Aya-Expanse`.
 
+---
+
+[***View in Colab >>***](https://colab.research.google.com/drive/10bdU0EjZ5sB6ULHXtWMVf4WBbwfJOCuV#scrollTo=dleP-sRiNISu)
+
+
 ## Technical Overview
 The festival exploration pipeline begins by collecting festival data from Hugging Face, which provides rich information about various celebrations. Next, we use the Mystery Model to translate this data into different languages, making it accessible to a wider audience. Afterward, we collect user queries to understand what information they are looking for. We then use retrieval-augmented generation (RAG) by embedding all the data and user queries. This allows us to rerank the results and gather relevant context for the user’s query. Finally, we combine this context with the user query to generate meaningful and informative output tailored to their needs.
 
