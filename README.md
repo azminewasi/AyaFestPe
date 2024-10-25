@@ -26,7 +26,10 @@ To ease your way into the festival experience, we designed this notebook where y
 
 ---
 
-[***View in Colab >>***](https://colab.research.google.com/drive/10bdU0EjZ5sB6ULHXtWMVf4WBbwfJOCuV#scrollTo=dleP-sRiNISu)
+### Versions:
+
+- [***View in Google Colab >>***](https://colab.research.google.com/drive/10bdU0EjZ5sB6ULHXtWMVf4WBbwfJOCuV#scrollTo=dleP-sRiNISu) (API Version)
+- [***View in Kaggle >>***](https://www.kaggle.com/code/azminetoushikwasi/ayafestpe-your-multilingual-festival-explorer) (Kaggle/HF Model Version)
 
 
 ## Technical Overview
