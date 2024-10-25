@@ -1,7 +1,7 @@
 # **AyaFestPe**
 Your multi-lingual and multi-cultural festival exploration guide!
 
-<img src="img\M.png">
+---
 
 <div>
 <b><i>Azmine Toushik Wasi, Wahid Faisal</i></b></br>
